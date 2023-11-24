@@ -1,0 +1,14 @@
+const fakeData = {
+  copyright: "Marco Lorenzi",
+  date: "2023-11-24",
+  explanation:
+    "Jupiter looks sharp in these two rooftop telescope images. Both were captured on November 17 from Singapore, planet Earth, about two weeks after Jupiter's 2023 opposition. Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore. That's about 4 astronomical units away. Jupiter's planet girdling dark belts and light zones are visible in remarkable detail, along with the giant world's whitish oval vortices. Its signature Great Red Spot is still prominent in the south. Jupiter rotates rapidly on its axis once every 10 hours. So, based on video frames taken only 15 minutes apart, these images form a stereo pair. Look at the center of the pair and cross your eyes until the separate images come together to see the Solar System's ruling gas giant in 3D.",
+  hdurl:
+    "https://apod.nasa.gov/apod/image/2311/2023-11-17-1617_1632-Jupiter_Stereo.png",
+  media_type: "image",
+  service_version: "v1",
+  title: "Stereo Jupiter near Opposition",
+  url: "https://apod.nasa.gov/apod/image/2311/2023-11-17-1617_1632-Jupiter_Stereo1200.png",
+};
+
+export default fakeData;
